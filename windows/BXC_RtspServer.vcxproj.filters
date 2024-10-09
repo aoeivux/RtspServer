@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\trunk\Live\H264FileSink.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\InetAddress.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\MediaSession.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\MediaSessionManager.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\MediaSource.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\RtspConnection.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\RtspServer.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\Sink.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\TcpConnection.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\AACFileMediaSource.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\AACFileSink.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\Buffer.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Live\H264FileMediaSource.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\SocketsOps.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\Thread.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\ThreadPool.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\Timer.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\UsageEnvironment.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\Event.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\EventScheduler.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\Poller.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\Scheduler\SelectPoller.cpp">
+      <Filter>Scheduler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\trunk\main.cpp" />
+    <ClCompile Include="..\trunk\Live\Rtp.cpp">
+      <Filter>Live</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\trunk\Base\Log.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\H264FileSink.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\InetAddress.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\MediaSession.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\MediaSessionManager.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\MediaSource.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\Rtp.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\RtpInstance.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\RtspConnection.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\RtspServer.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\Sink.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\TcpConnection.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\AACFileMediaSource.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\AACFileSink.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\Buffer.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Live\H264FileMediaSource.h">
+      <Filter>Live</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\SocketsOps.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\Thread.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\ThreadPool.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\Timer.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\UsageEnvironment.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\Event.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\EventScheduler.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\Poller.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Scheduler\SelectPoller.h">
+      <Filter>Scheduler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\trunk\Base\Version.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\.gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Base">
+      <UniqueIdentifier>{85d2639e-7c85-445f-9498-5cb5bb1f7f5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Live">
+      <UniqueIdentifier>{96be5b81-8db5-4601-b3a3-dff040b6ca46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scheduler">
+      <UniqueIdentifier>{fe7324d5-95f8-4e8b-a6a4-e215ff0ac46a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\CMakeLists.txt" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+﻿# clion
+.idea/
+# vs
+.vs
+
+data/*
+# build
+cmake-build-debug/*
+x64/*
+windows/x64/*
+windows/.vs/*
+
